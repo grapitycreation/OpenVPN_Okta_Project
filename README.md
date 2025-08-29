@@ -73,6 +73,13 @@
 
 ![image](https://github.com/grapitycreation/OpenVPN_Okta_Project/blob/main/media/image13.png)
 
+- After successfully connecting, we check whether the VPN Server has faked the IP address of the device and encrypted the packets or not.
+
+![image](https://github.com/grapitycreation/OpenVPN_Okta_Project/blob/main/media/image13.2.webp)
+
+![image](https://github.com/grapitycreation/OpenVPN_Okta_Project/blob/main/media/image13.1.webp)
+
+
 - Download files from the FTP server.
 - Upload files to the FTP server.
 
